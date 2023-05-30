@@ -2,10 +2,7 @@
 
 >Status do projeto: Em desenvolvimento
 
-Para rodar o projeto, por favor digite:
-```
-node app.js
-```
+Treino de git e github Alura
 
 
 :)
